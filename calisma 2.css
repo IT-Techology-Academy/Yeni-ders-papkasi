@@ -1,0 +1,84 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+/*Burada ID html de yaradilib ve css fon verilib*/
+#background-fon {
+    background-color: rgb(7, 7, 51);
+} 
+/*bu id ile umumi sehifenin en ve hundurluyunu verirem*/
+#total{
+    width: 1535px;
+    height: 700px;
+}
+
+/*bu element ile sehifenin basligini verirem*/
+header {
+    background-color:rgb(10, 10, 92);
+    color:white;
+    padding:25px;	 
+    text-align:center;
+}
+
+/*Burada class html de yaradilib ve css xaricden ve daxilden mesafe qoyulub ve  verilib*/
+.photo {
+    position: relative;
+    margin: 50px;
+    padding: 10px;
+}
+/*bu htmlde div klassina verilib. umumi olaraq divin olcusu ve orada yazilan yazinin rengidi*/
+.main{
+    position: relative;
+    bottom: 580px;
+    color: whitesmoke;
+    width: 550px; 
+}
+
+/*bu klass ile what's include sozunun deyisikliklerini verirem*/
+.p1 {
+    position: relative;
+    font-size: 40px; 
+    left: 140%;
+    word-spacing: 10px;
+}
+
+/*Burada butun iconlarin duzulusu verilir*/
+.fas {
+    position: absolute;
+    left: -10%;    
+}
+
+/*Burada icon klasslarinin yazisinin dizayni edilir*/
+.icon {
+    position: relative;
+    left: 150%;
+    font-size: 28px; 
+    font-weight: bold;
+}
+
+/*Burada text klasslarinin yazisinin dizayni edilir*/
+.text {
+    position: relative;
+    left: 150%;
+    font-size: 21px;  
+}
+
+/*Burada sehifenini ayaq hissesinin dizayni edilir*/
+footer {
+    background-color:rgb(10, 10, 92);
+    color:white;
+    text-align:center;
+    clear:both;
+    padding:15px;
+    position: relative;
+    bottom: 470px;	 	 
+}
+
+ 
+
+
+
+
+
+
